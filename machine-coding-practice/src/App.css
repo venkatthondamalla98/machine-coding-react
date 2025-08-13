@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.display-component{
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 50px;
+  width: 100px;
+  height: auto;
+  display: inline-block;
+  margin: 10px;
+}
+
+.cart-card{
+  border: 2px solid black;
+  border-radius: 30px;
+  width: 70px;
+  padding: 10px;
+  display: inline-block;
+  float: right;
+}
+
+.card-li{
+  display: flex;
+  padding: 10px;
+}
+
+.display-input{
+  margin: 20px;
+}
+
+#input-field{
+  padding: 7px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
